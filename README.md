@@ -7,6 +7,10 @@ Through this project, I gained valuable hands-on experience with data modeling, 
 
 A comprehensive Power BI project analyzing **Blinkit's** sales performance, customer satisfaction, and inventory distribution. The project provides insights using various KPIs and visualizations to support data-driven decision-making.
 
+## 🖼️ Dashboard Preview
+
+![blinkit_sales_dashboard](https://github.com/user-attachments/assets/f82725a9-122c-4462-a7b6-e472244aa918)
+
 ---
 
 ## 📌 Business Requirement
