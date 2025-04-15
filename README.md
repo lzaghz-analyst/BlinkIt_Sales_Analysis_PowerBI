@@ -11,6 +11,10 @@ A comprehensive Power BI project analyzing **Blinkit's** sales performance, cust
 
 ![blinkit_sales_dashboard](https://github.com/user-attachments/assets/f82725a9-122c-4462-a7b6-e472244aa918)
 
+## 🌐 Live Dashboard Demo  
+[🔗 Click here to view the interactive Power BI Dashboard](<iframe title="Blinkit Sales Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGVmMzY1MjItODlkNi00MTRhLWJlNGEtZTQ1NmQ1MzFiMDA5IiwidCI6ImNkY2JiMGUyLTlmZWEtNGY1NC04NjcwLTY3MjcwNzc5N2FkYSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>)
+
+
 ---
 
 ## 📌 Business Requirement
