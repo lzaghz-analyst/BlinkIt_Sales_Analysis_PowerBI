@@ -91,9 +91,5 @@ To conduct a comprehensive analysis of **Blinkit's** sales performance, customer
 - Visual best practices for clear, insightful dashboards  
 - Project lifecycle from raw data to business insights  
 
----
-
-> 📍 _This project is a personal portfolio work and not affiliated with any real-world company._
-
 
 
